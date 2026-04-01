@@ -1,5 +1,4 @@
-public class lab5 {
-}import java.util.Scanner;
+import java.util.Scanner;
 
 public class tap1 {
     public static void main(String[] args) {
