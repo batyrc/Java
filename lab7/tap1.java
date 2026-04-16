@@ -1,5 +1,3 @@
-public class lab7 {
-}
 import java.util.Scanner;
 
 public class tap1 {

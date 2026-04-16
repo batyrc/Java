@@ -1,5 +1,4 @@
-public class lab9 {
-}public class tap1 {
+public class tap1 {
     static class Student {
         String name;
         int age;

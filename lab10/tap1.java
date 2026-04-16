@@ -1,7 +1,5 @@
-public class lab10 {
-}
 import javax.swing.*;
-        import java.awt.*;
+import java.awt.*;
 
 public class tap1 extends JPanel {
 
